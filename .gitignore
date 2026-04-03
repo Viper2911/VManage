@@ -2,7 +2,7 @@
 *.joblib
 *.pth
 *.h5
-
+*.env
 # Python Environment
 venv/
 __pycache__/
