@@ -10,6 +10,7 @@ __pycache__/
 
 # Data
 *.csv
+*.txt
 *.xlsx
 data/
 
